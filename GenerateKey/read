@@ -1,0 +1,3 @@
+Função que gera e salva a chave.
+Desde jeito, não é seguro, pois, a chave é gerada e salva em um arquivo de texto comum.
+No entanto, vou aperfeiçoar isso ainda ....
